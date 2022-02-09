@@ -1,3 +1,5 @@
+
+// первое окно
 import javax.swing.*;
 public class Windows extends JFrame {
 
